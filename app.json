@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Script Reviewer Mobile",
+    "slug": "script-reviewer-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.andrevazao.scriptreviewermobile",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0b1220"
+      },
+      "permissions": [
+        "READ_EXTERNAL_STORAGE"
+      ]
+    },
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0b1220"
+    }
+  }
+}
