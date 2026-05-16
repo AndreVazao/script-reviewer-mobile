@@ -1,0 +1,20 @@
+script-reviewer-mobile/
+├─ src/
+│  ├─ analysis/
+│  │  └─ analyzer.ts
+│  ├─ components/
+│  │  ├─ CodeViewer.tsx
+│  │  └─ IssueList.tsx
+│  ├─ theme/
+│  │  └─ index.ts
+│  ├─ types/
+│  │  └─ index.ts
+│  └─ utils/
+│     └─ file.ts
+├─ app.json
+├─ App.tsx
+├─ babel.config.js
+├─ eas.json
+├─ package.json
+├─ README.md
+└─ tsconfig.json
